@@ -11,7 +11,7 @@
 
 ### Languages and Tools
 
-<img align="left" alt="vscode" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  style="padding-right:11px;"/>
+[<img align="left" alt="vscode" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  style="padding-right:11px;"/>
 <img align="left" alt="html" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  style="padding-right:11px;"/>
 <img align="left" alt="css" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  style="padding-right:11px;"/>
 <img align="left" alt="js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  style="padding-right:11px;"/>
@@ -19,8 +19,7 @@
 <img align="left" alt="next" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  style="padding-right:11px;"/>
 <img align="left" alt="php" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  style="padding-right:11px;"/>
 <img align="left" alt="mysql" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  style="padding-right:11px;"/>
-<img align="left" alt="mysql" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  style="padding-right:11px;"/>
-<img align="left" alt="wordpress" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"  style="padding-right:11px;"/>
+<img align="left" alt="wordpress" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />]
 
 
 ### Connect with me
