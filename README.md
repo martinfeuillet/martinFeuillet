@@ -22,6 +22,10 @@
 <img align="left" alt="wordpress" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </br>
 
+### github stats
+
+[![MartinFeuillet GitHub stats](https://github-readme-stats.vercel.app/api?username=martinfeuillet)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Connect with me
 martin.feuillet92@gmail.com
