@@ -20,6 +20,7 @@
 <img align="left" alt="php" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  style="padding-right:11px;"/>
 <img align="left" alt="mysql" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  style="padding-right:11px;"/>
 <img align="left" alt="wordpress" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+</br>
 
 
 ### Connect with me
