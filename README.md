@@ -8,3 +8,15 @@
 - 😄 Pronouns: Martin_Dev
 - ⚡ Fun fact: i was a DJ during 10 years, but i'm too old for this passion, time to use my brain for the rest of my carreer
 -->
+
+### Languages and Tools
+
+[<img align="left" alt="vscode" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  style="padding-right:11px;""/>
+
+### Connect with me
+[![img_contact](
+
+
+
+#GH-LIGHT-MODE-ONLY
+#GH-DARK-MODE-ONLY
