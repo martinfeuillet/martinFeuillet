@@ -11,7 +11,7 @@
 
 ### Languages and Tools
 
-[<img align="left" alt="vscode" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  style="padding-right:11px;""/>
+[<img align="left" alt="vscode" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  style="padding-right:11px;"/>
 
 ### Connect with me
 [![img_contact](
