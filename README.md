@@ -6,7 +6,6 @@
 - 💬 You can ask me to build websites and applications, i'm open to any contracts 
 - 📫 You can reach me on my mail : martin.feuillet92@gmail.com
 - 😄 Pronouns: Martin_Dev
-- ⚡ Fun fact: i was a DJ during 10 years, but i'm too old for this passion, time to use my brain for the rest of my carreer
 -->
 
 ### Languages and Tools
