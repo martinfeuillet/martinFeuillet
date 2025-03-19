@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React, Redux, and Next.js
-- 🌱 I’m currently learning typescript and tests with Jest
-- 👯 I’m looking to collaborate on project that could change the internet world
+- 👨‍💻 Developper fullstack / Wordpress Expert 
+- ➕ Creation of plugins an themes
+- 🛍️ E-commerce consultant
 - 💬 You can ask me to build websites and applications, i'm open to any contracts 
 - 📫 You can reach me on my mail : martin.feuillet92@gmail.com
-- 😄 Pronouns: Martin_Dev
--->
 
 ### Languages and Tools
 
